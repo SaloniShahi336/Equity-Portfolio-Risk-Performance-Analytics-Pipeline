@@ -1,0 +1,18 @@
+# Data files (too large for GitHub)
+*.csv
+!data/sector_mapping.csv
+
+# Tableau
+*.twb
+*.twbx
+*.hyper
+*.tde
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
