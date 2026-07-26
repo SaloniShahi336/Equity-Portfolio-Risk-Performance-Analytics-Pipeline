@@ -2,7 +2,8 @@
 
 An end-to-end cloud financial analytics pipeline that ingests stock market data, engineers risk metrics via SQL, trains ML models for price prediction and anomaly detection, optimizes portfolio allocation, and delivers insights through an interactive Tableau dashboard.
 
-![Dashboard Screenshot](screenshots/dashboard_main.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b97d0aa9-0c8c-432e-8410-649cc6ce3c15" />
+
 
 ---
 
